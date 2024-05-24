@@ -1,0 +1,2 @@
+Mercado Livre is a leading technology website for e-commerce and fintech solutions in Latin America for millions of users buying, selling, advertising, shipping and paying for products over the internet.
+In this project I carry out web scraping of computers throughout Brazil, extracting data from the Mercado Livre website, transforming it into quality data and loading it into a database. The analyzes are delivered on a dashboard with streamlit.
